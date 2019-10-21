@@ -12,5 +12,5 @@ Competition Link: https://www.kaggle.com/c/ga-customer-revenue-prediction
 
 Data Source Link: https://www.kaggle.com/c/ga-customer-revenue-prediction/data
 
-#Preprocessing, EDA and Feature Engineering Done in Python
+#Preprocessing, EDA and Feature Engineering done in Python
 #Predicitve Models buit in SAS JMP
