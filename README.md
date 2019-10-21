@@ -1,4 +1,4 @@
-# Google-Revenue-Prediction
+# Customer-Revenue-Prediction
 Google Analytics Customer Revenue Prediction: 
 
 "Predicting how much GStore customers will spend" 
